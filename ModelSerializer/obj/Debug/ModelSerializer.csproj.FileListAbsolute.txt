@@ -1,0 +1,7 @@
+D:\Work\Bongo Test\ModelSerializer\ModelSerializer\bin\Debug\ModelSerializer.exe.config
+D:\Work\Bongo Test\ModelSerializer\ModelSerializer\bin\Debug\ModelSerializer.exe
+D:\Work\Bongo Test\ModelSerializer\ModelSerializer\bin\Debug\ModelSerializer.pdb
+D:\Work\Bongo Test\ModelSerializer\ModelSerializer\obj\Debug\ModelSerializer.csprojResolveAssemblyReference.cache
+D:\Work\Bongo Test\ModelSerializer\ModelSerializer\obj\Debug\ModelSerializer.csproj.CoreCompileInputs.cache
+D:\Work\Bongo Test\ModelSerializer\ModelSerializer\obj\Debug\ModelSerializer.exe
+D:\Work\Bongo Test\ModelSerializer\ModelSerializer\obj\Debug\ModelSerializer.pdb
